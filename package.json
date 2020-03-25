@@ -1,0 +1,19 @@
+{
+  "name": "bb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "charts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guojiahao7/bb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guojiahao7/bb/issues"
+  },
+  "homepage": "https://github.com/Guojiahao7/bb#readme"
+}
